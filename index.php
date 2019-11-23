@@ -7,9 +7,7 @@
     <body>
             
         <?php 
-            $name = "Nathan";
-            echo $name . " is learning PHP";
-
+            echo strlen("hello world")
         ?>
 
     </body>
